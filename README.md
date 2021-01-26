@@ -1,6 +1,6 @@
-# broad-boilerplate
+# etude-Toiro
 
-<!-- Badges are here! -->
+![Bump Version](https://github.com/shin-sforzando/etude-Transformers/workflows/Bump%20Version/badge.svg)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,8 +8,7 @@
 |:---:|:---:|
 |Screenshot 1|Screenshot 2|
 
-<!-- Synopsis is here! -->
-GitHub Template Repository for General Use.
+> Toiro is a comparison tool of Japanese tokenizers.
 
 - [Requirements](#requirements)
 - [How to](#how-to)
